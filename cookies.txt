@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.niagaweb.co.id	TRUE	/	FALSE	1999999999	PHPSESSID	2a8900f3aa49f882dbd82950422df6a7
+blog.niagaweb.co.id	TRUE	/	FALSE	1999999999	cf_ob_info	523:6f9090b47b8e87bd:SIN
+blog.niagaweb.co.id	TRUE	/	FALSE	1999999999	cf_use_ob	80
+

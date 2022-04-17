@@ -1,0 +1,242 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 09 Apr 2022 11:24:12 at https://www.niagaweb.co.id/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.niagaweb.co.id/ -O1 "D:\WEBSITE\WEB PARTNER" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:25:13	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.niagaweb.co.id/)
+11:27:54	Warning: 	File not parsed, looks like binary: https://www.niagaweb.co.id/wp-content/plugins/sticky-side-buttons/assets/fonts/fa-brands-400.woff2
+11:27:57	Warning: 	File not parsed, looks like binary: https://www.niagaweb.co.id/wp-content/plugins/sticky-side-buttons/assets/fonts/fa-regular-400.woff2
+11:27:57	Warning: 	File not parsed, looks like binary: https://www.niagaweb.co.id/wp-content/plugins/sticky-side-buttons/assets/fonts/fa-solid-900.woff2
+11:27:58	Warning: 	File not parsed, looks like binary: https://www.niagaweb.co.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+11:27:58	Warning: 	File not parsed, looks like binary: https://www.niagaweb.co.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+11:27:58	Warning: 	File not parsed, looks like binary: https://www.niagaweb.co.id/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+11:27:59	Warning: 	Link https://www.niagaweb.co.id/contact/ not scanned (follow robots meta tag)
+11:27:59	Warning: 	Link https://www.niagaweb.co.id/blank-page-test/ not scanned (follow robots meta tag)
+11:28:00	Error: 	"Not Found" (404) at link https://www.niagaweb.co.id/POST (from connect.facebook.net/en_US/fbevents.js)
+11:28:00	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1676
+11:28:00	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1676 to https://www.niagaweb.co.id/keuntungan-dari-jasa-pembuatan-website-di-niagaweb/
+11:28:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1626
+11:28:25	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1626 to https://www.niagaweb.co.id/harga-pembuatan-website/
+11:28:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1638
+11:28:25	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1638 to https://www.niagaweb.co.id/pilihan-desain-website/
+11:28:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3170
+11:28:25	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3170 to https://www.niagaweb.co.id/keagenan-niagaweb/
+11:28:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1749
+11:28:25	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1749 to https://www.niagaweb.co.id/ajukan-penawaran/
+11:28:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1753
+11:28:25	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1753 to https://www.niagaweb.co.id/syarat-dan-ketentuan/
+11:28:25	Warning: 	Link https://www.niagaweb.co.id/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+11:28:25	Error: 	"Method Not Allowed" (405) at link https://www.niagaweb.co.id/blog/xmlrpc.php (from https://www.niagaweb.co.id/blog/)
+11:32:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1628
+11:32:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1628 to https://www.niagaweb.co.id/kontak-jasa-pembuatan-website/
+11:32:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=2109
+11:32:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=2109 to https://www.niagaweb.co.id/kebijakan-privasi/
+11:32:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1745
+11:32:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1745 to https://www.niagaweb.co.id/faq/
+11:32:26	Error: 	"Not Found" (404) at link https://www.niagaweb.co.id/img/bg.jpg (from https://www.niagaweb.co.id/faq/)
+11:32:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=4430
+11:32:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=4430 to https://www.niagaweb.co.id/partner/
+11:32:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=1816
+11:32:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=1816 to https://www.niagaweb.co.id/upsell-referral/
+11:35:38	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=954
+11:35:38	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=954 to https://www.niagaweb.co.id/blog/6-aplikasi-terbaik-untuk-membuat-website-gratis/
+11:35:38	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/01/Zyro1.jpg (from https://www.niagaweb.co.id/blog/6-aplikasi-terbaik-untuk-membuat-website-gratis/)
+11:35:38	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/01/wix-logo2.jpg (from https://www.niagaweb.co.id/blog/6-aplikasi-terbaik-untuk-membuat-website-gratis/)
+11:36:17	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2203
+11:36:17	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2203 to https://www.niagaweb.co.id/blog/pengertian-iklan-online/
+11:36:58	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2110
+11:36:58	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2110 to https://www.niagaweb.co.id/blog/jenis-jenis-website/
+11:37:18	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2349
+11:37:18	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2349 to https://www.niagaweb.co.id/blog/cara-membuat-facebook-business-manager/
+11:37:28	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2858
+11:37:28	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2858 to https://www.niagaweb.co.id/blog/cara-iklan-di-instagram/
+11:37:28	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2851
+11:37:28	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2851 to https://www.niagaweb.co.id/blog/seo-adalah/
+11:37:49	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=556
+11:37:49	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=556 to https://www.niagaweb.co.id/blog/kata-kunci-negatif-iklan-google-adwords-sebagai-jurus-pamungkas/
+11:38:46	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=74
+11:38:46	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=74 to https://www.niagaweb.co.id/blog/kelebihan-dan-kekurangan-beriklan-di-google-adwords/
+11:39:08	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=472
+11:39:08	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=472 to https://www.niagaweb.co.id/blog/3-tips-menemukan-kata-kunci-yang-tepat-untuk-iklan-google-adwords-anda/
+11:39:08	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2014/09/Untitled-3-03-300x98.jpg (from https://www.niagaweb.co.id/blog/3-tips-menemukan-kata-kunci-yang-tepat-untuk-iklan-google-adwords-anda/)
+11:39:08	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2014/09/Untitled-3-02-300x381.jpg (from https://www.niagaweb.co.id/blog/3-tips-menemukan-kata-kunci-yang-tepat-untuk-iklan-google-adwords-anda/)
+11:39:08	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2014/09/Untitled-3-01-300x150.jpg (from https://www.niagaweb.co.id/blog/3-tips-menemukan-kata-kunci-yang-tepat-untuk-iklan-google-adwords-anda/)
+11:39:19	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2839
+11:39:19	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2839 to https://www.niagaweb.co.id/blog/cara-memulai-bisnis-online/
+11:39:23	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2199
+11:39:23	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2199 to https://www.niagaweb.co.id/blog/usaha-sampingan-online/
+11:39:23	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2187
+11:39:23	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2187 to https://www.niagaweb.co.id/blog/cara-membuat-whatsapp-bisnis/
+11:39:30	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2148
+11:39:30	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2148 to https://www.niagaweb.co.id/blog/jualan-online/
+11:39:30	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2150
+11:39:30	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2150 to https://www.niagaweb.co.id/blog/email-bisnis/
+11:39:44	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2145
+11:39:44	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2145 to https://www.niagaweb.co.id/blog/ide-peluang-bisnis-online/
+11:39:44	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2828
+11:39:44	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2828 to https://www.niagaweb.co.id/blog/wordpress-adalah/
+11:39:47	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2096
+11:39:47	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2096 to https://www.niagaweb.co.id/blog/estimasi-harga-pembuatan-website-toko-online-dan-perusahaan/
+11:39:47	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/ide-produk-jualan-online/
+11:39:47	Warning: 	File has moved from https://www.niagaweb.co.id/blog/ide-produk-jualan-online/ to https://www.niagaweb.co.id/blog/jualan-online/
+11:39:47	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/manfaat-email-perusahaan/
+11:39:47	Warning: 	File has moved from https://www.niagaweb.co.id/blog/manfaat-email-perusahaan/ to https://www.niagaweb.co.id/blog/email-bisnis/
+11:39:52	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2195
+11:39:52	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2195 to https://www.niagaweb.co.id/blog/cara-mengelola-website/
+11:39:52	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2352
+11:39:52	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2352 to https://www.niagaweb.co.id/blog/apa-itu-website/
+11:39:58	Error: 	"Not Found" (404) at link https://www.niagaweb.co.id/blog/popper.js (from https://www.niagaweb.co.id/blog/wp-content/themes/medley/assets/js/bootstrap4x/bootstrap.min.js?ver=1.0.1)
+11:39:58	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2756
+11:39:58	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2756 to https://www.niagaweb.co.id/blog/bambino-project/
+11:39:58	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=49
+11:39:58	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=49 to https://www.niagaweb.co.id/blog/perlukah-membuat-blog-untuk-website-perusahaan/
+11:40:43	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2180
+11:40:43	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2180 to https://www.niagaweb.co.id/blog/cara-menggunakan-google-ads/
+11:40:53	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2185
+11:40:53	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2185 to https://www.niagaweb.co.id/blog/apa-itu-sem/
+11:41:02	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=1025
+11:41:02	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=1025 to https://www.niagaweb.co.id/blog/7-langkah-mudah-meningkatkan-peringkat-seo-website/
+11:41:18	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2176
+11:41:18	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2176 to https://www.niagaweb.co.id/blog/belajar-seo/
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Featured-Image-fixed.png (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=1080
+11:41:25	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=1080 to https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/2.jpg (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/5.jpg (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/4.jpg (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Facebook-page-5.png (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Facebook-page-6.png (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Facebook-page-7.png (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Facebook-page-8.png (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Facebook-page-9.png (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Facebook-page-10.png (from https://www.niagaweb.co.id/blog/cara-jitu-integrasi-website-facebook/)
+11:41:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2201
+11:41:25	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2201 to https://www.niagaweb.co.id/blog/strategi-pemasaran-yang-efektif/
+11:41:25	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2223
+11:41:25	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2223 to https://www.niagaweb.co.id/blog/apa-itu-content-marketing/
+11:41:32	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=298
+11:41:32	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=298 to https://www.niagaweb.co.id/blog/7-kesalahan-landing-page-yang-merugikan/
+11:41:32	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=276
+11:41:32	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=276 to https://www.niagaweb.co.id/blog/apa-yang-perlu-dimiliki-oleh-setiap-website-bisnis/
+11:41:51	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2141
+11:41:51	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2141 to https://www.niagaweb.co.id/blog/apa-itu-media-sosial/
+11:41:51	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2197
+11:41:51	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2197 to https://www.niagaweb.co.id/blog/cara-membuat-fanspage-facebook/
+11:41:51	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2191
+11:41:51	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2191 to https://www.niagaweb.co.id/blog/cara-daftar-di-google-bisnisku/
+11:41:59	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2189
+11:41:59	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2189 to https://www.niagaweb.co.id/blog/manfaat-instagram-untuk-bisnis/
+11:42:05	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2205
+11:42:05	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2205 to https://www.niagaweb.co.id/blog/memilih-jasa-pembuatan-website/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=4653
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/?p=4653 to https://www.niagaweb.co.id/jasa-pembuatan-website/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2138
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2138 to https://www.niagaweb.co.id/blog/apa-itu-digital-marketing/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3498
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3498 to https://www.niagaweb.co.id/jasa-pembuatan-website-semarang/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2169
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2169 to https://www.niagaweb.co.id/blog/apa-itu-blog/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2207
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2207 to https://www.niagaweb.co.id/blog/contoh-website-perusahaan-dan-toko-online/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2211
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2211 to https://www.niagaweb.co.id/blog/apa-itu-domain/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3449
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3449 to https://www.niagaweb.co.id/jasa-pembuatan-website-jakarta/
+11:42:20	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2143
+11:42:20	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2143 to https://www.niagaweb.co.id/blog/cara-riset-keyword/
+11:42:21	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=495
+11:42:21	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=495 to https://www.niagaweb.co.id/blog/2-strategi-penting-menggunakan-kata-kunci-google-adwords/
+11:42:21	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=526
+11:42:21	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=526 to https://www.niagaweb.co.id/blog/3-rahasia-kata-kunci-google-adwords-untuk-kesuksesan-iklan/
+11:42:21	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2014/11/spletnik-1.jpg (from https://www.niagaweb.co.id/blog/3-rahasia-kata-kunci-google-adwords-untuk-kesuksesan-iklan/)
+11:42:21	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2014/03/Illustrasi-blog_Ad-Extension-07-300x205.png (from https://www.niagaweb.co.id/blog/3-rahasia-kata-kunci-google-adwords-untuk-kesuksesan-iklan/)
+11:42:21	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=446
+11:42:21	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=446 to https://www.niagaweb.co.id/blog/bagaimana-cara-menentukan-target-lokasi-iklan-google-adwords/
+11:42:21	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2014/09/location-targeting-physical-search-intent-300x138.gif (from https://www.niagaweb.co.id/blog/bagaimana-cara-menentukan-target-lokasi-iklan-google-adwords/)
+11:42:21	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=211
+11:42:21	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=211 to https://www.niagaweb.co.id/blog/ukm-membutuhkan-google-adwords/
+11:42:21	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=187
+11:42:21	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=187 to https://www.niagaweb.co.id/blog/menggunakan-biaya-iklan-adwords-dengan-efisien/
+11:42:21	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=338
+11:42:21	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=338 to https://www.niagaweb.co.id/blog/mengelola-iklan-google-adwords-sendiri-atau-lewat-agensi/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=236
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=236 to https://www.niagaweb.co.id/blog/8-mitos-tentang-website/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3249
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3249 to https://www.niagaweb.co.id/jasa-pembuatan-website-surabaya/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=20
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=20 to https://www.niagaweb.co.id/blog/10-hal-penting-mengenai-google-adwords/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=11
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=11 to https://www.niagaweb.co.id/blog/meningkatkan-keuntungan-dengan-beriklan-melalui-google-adwords/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=31
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=31 to https://www.niagaweb.co.id/blog/kesalahan-kesalahan-kecil-pada-website-anda/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=91
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=91 to https://www.niagaweb.co.id/blog/ad-extension-untuk-meningkatkan-peringkat-iklan/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3482
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3482 to https://www.niagaweb.co.id/jasa-pembuatan-website-jogja/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=181
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=181 to https://www.niagaweb.co.id/blog/fakta-email-marketing/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3458
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3458 to https://www.niagaweb.co.id/jasa-pembuatan-website-bandung/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2209
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2209 to https://www.niagaweb.co.id/blog/apa-itu-hosting/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=230
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=230 to https://www.niagaweb.co.id/blog/10-mitos-bisnis-online/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=925
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=925 to https://www.niagaweb.co.id/blog/mencari-jasa-seo-murah-perhatikan-5-hal-ini/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2105
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2105 to https://www.niagaweb.co.id/blog/apa-itu-landing-page/
+11:42:26	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2090
+11:42:26	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2090 to https://www.niagaweb.co.id/blog/manfaat-website/
+11:42:27	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3503
+11:42:27	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3503 to https://www.niagaweb.co.id/jasa-pembuatan-website-bekasi/
+11:42:27	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=223
+11:42:27	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=223 to https://www.niagaweb.co.id/blog/membangun-audiens-blog-perusahaan/
+11:42:27	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=991
+11:42:27	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=991 to https://www.niagaweb.co.id/blog/6-cara-membuat-blog-gratis-untuk-website-anda/
+11:42:27	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=171
+11:42:27	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=171 to https://www.niagaweb.co.id/blog/strategi-menarik-pengunjung-website/
+11:42:27	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=1168
+11:42:27	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=1168 to https://www.niagaweb.co.id/blog/pemasaran-online-sales-mobil/
+11:42:27	Error: 	"Unknown error" (523) at link blog.niagaweb.co.id/wp-content/uploads/2015/02/Featured-Image2.png (from https://www.niagaweb.co.id/blog/4-aspek-desain-website-menjual/)
+11:42:27	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=1150
+11:42:27	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=1150 to https://www.niagaweb.co.id/blog/4-aspek-desain-website-menjual/
+11:42:28	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=1170
+11:42:28	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=1170 to https://www.niagaweb.co.id/blog/6-trik-meningkatkan-klik-media-sosial/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3474
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3474 to https://www.niagaweb.co.id/jasa-pembuatan-website-tangerang/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=903
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=903 to https://www.niagaweb.co.id/blog/7-alasan-memilih-jasa-seo-sebagai-amunisi-bisnis/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=720
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=720 to https://www.niagaweb.co.id/blog/7-perangkap-jasa-pembuatan-website-murah/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=1193
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=1193 to https://www.niagaweb.co.id/blog/waktu-tepat-posting-media-sosial/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=644
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=644 to https://www.niagaweb.co.id/blog/3-hasil-survei-google-tentang-desain-website-yang-sukses/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=2165
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=2165 to https://www.niagaweb.co.id/blog/apa-itu-ssl/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3469
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3469 to https://www.niagaweb.co.id/jasa-pembuatan-website-malang/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3490
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3490 to https://www.niagaweb.co.id/jasa-pembuatan-website-bali/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=193
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=193 to https://www.niagaweb.co.id/blog/4-perilaku-calon-konsumen/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=152
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=152 to https://www.niagaweb.co.id/blog/12-fakta-menarik-marketing-online/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3754
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3754 to https://www.niagaweb.co.id/jasa-pembuatan-website-solo/
+11:42:29	Warning: 	Moved Permanently for https://www.niagaweb.co.id/?p=3511
+11:42:29	Warning: 	File has moved from https://www.niagaweb.co.id/?p=3511 to https://www.niagaweb.co.id/jasa-pembuatan-website-bogor/
+11:42:44	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=1367
+11:42:44	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=1367 to https://www.niagaweb.co.id/blog/membuat-website-mencuri-pelanggan-kompetitor/
+11:42:44	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=506
+11:42:44	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=506 to https://www.niagaweb.co.id/blog/kelemahan-media-sosial-dibandingkan-website-yang-mobile-friendly-dalam-penjualan/
+11:42:45	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=101
+11:42:45	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=101 to https://www.niagaweb.co.id/blog/nama-domain/
+11:42:45	Warning: 	Moved Permanently for https://www.niagaweb.co.id/blog/?p=204
+11:42:45	Warning: 	File has moved from https://www.niagaweb.co.id/blog/?p=204 to https://www.niagaweb.co.id/blog/mengapa-ukm-butuh-website/
+
+HTTrack Website Copier/3.49-2 mirror complete in 18 minutes 35 seconds : 1746 links scanned, 1622 files written (111967790 bytes overall) [46951271 bytes received at 42108 bytes/sec], 82701360 bytes transferred using HTTP compression in 968 files, ratio 18%, 17.9 requests per connection
+(24 errors, 207 warnings, 0 messages)

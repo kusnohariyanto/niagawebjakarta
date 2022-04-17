@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 100 100"><defs><style>
+      .cls-1 {
+        fill: #eaf6fe;
+      }
+
+      .cls-2, .cls-3, .cls-4 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #4481eb;
+        stroke-width: 2px;
+      }
+
+      .cls-2, .cls-4 {
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-2, .cls-3 {
+        fill-rule: evenodd;
+      }
+
+      .cls-3, .cls-4 {
+        stroke: #3ecf8e;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-miterlimit: 2.61;
+      }
+    </style></defs><title>Keunggulan Icon</title><circle class="cls-1" cx="50" cy="50" r="50" transform="translate(-7.36 8.65) rotate(-9.22)"></circle><g><path class="cls-2" d="M54.41,47.37A8,8,0,1,1,46.52,38a7.85,7.85,0,0,1,1.19.09"></path><path class="cls-2" d="M31,69a35.49,35.49,0,0,1,.27-5.72c1.42-8.15,29.07-8.15,30.49,0A35.49,35.49,0,0,1,62,69Z"></path><path class="cls-3" d="M66.67,31H53a2.34,2.34,0,0,0-2.33,2.33l0,11.06a1,1,0,0,0,.62.92,1,1,0,0,0,1.1-.21l1.32-1.33a1,1,0,0,1,.71-.29H66.67A2.34,2.34,0,0,0,69,41.15V33.33A2.34,2.34,0,0,0,66.67,31Z"></path><line class="cls-4" x1="54.91" y1="35.21" x2="64.79" y2="35.21"></line><line class="cls-4" x1="54.91" y1="39.27" x2="59.85" y2="39.27"></line></g></svg>
